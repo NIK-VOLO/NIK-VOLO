@@ -8,10 +8,10 @@ I have attained a B.S. degree in Computer Science from Rutgers University, where
 - Computer vision 
 - Front-end development
 
-I've pinned some of the projects I am most proud of to my main GitHub page.
-
 Contact me:
 www.linkedin.com/in/nikita-volodin-8b34431b9
+
+### I've pinned some of my favorite projects to my main GitHub page.
 
 <!---
 NIK-VOLO/NIK-VOLO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
