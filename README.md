@@ -1,12 +1,14 @@
 👋 Hi, I'm Nikita (@NIK-VOLO)
 
-I am a software engineer, data analyst, robotics programmer, and eager student aspiring to explore software engineering, data science, and advanced machine learning in more detail.
+I am a software engineer, data analyst, and robotics programmer.
 
-I have attained a B.S. degree in Computer Science from Rutgers University, where I primarily worked on command-line projects and software with GUI. I'm continuing to expand my skills in the software engineering and data science fields through self-study of the following topics:
-- Software best practices, methodologies, and frameworks (applied to projects)
+I have attained a Bachelor of Science in Computer Science from Rutgers University, where I primarily worked on command-line, AI, and software projects. I'm continuing to expand my skills in software engineering and data science through self-study of the following topics:
+- Software best practices, methodologies, and frameworks
 - Predictive modeling 
 - Computer vision 
-- Front-end development
+- Full-stack development
+
+I'm eager to work alongside other ambitious developers who wish to continuously learn and innovate!
 
 Contact me:
 www.linkedin.com/in/nikita-volodin-8b34431b9
